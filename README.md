@@ -1,6 +1,6 @@
 # eslint-plugin-spongebobcase
 
-![sPoNgEbOb](https://github.com/higgins/eslint-plugin-spongebob/blob/main/image.jpeg?raw=true)
+![sPoNgEbOb](https://github.com/higgins/eslint-plugin-spongebobcase/blob/main/logo.jpeg?raw=true)
 
 
 This is an ESLint plugin that enforces variable naming in the format sPoNgEbObCaSe...
