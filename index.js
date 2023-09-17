@@ -1,6 +1,6 @@
 module.exports = {
   rules: {
-    'sPoNgEbOb': {
+    "sPoNgEbObCaSe": {
       meta: {
         type: 'suggestion',
         docs: {
